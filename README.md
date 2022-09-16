@@ -30,12 +30,13 @@ please use the sql file in project or
 ```bash
   php artisan serve
 ```
-```bash
-and insert the data from database for profile edit section
-```
-```bash
+## important
+
+most insert the data from database for profile edit section
+## important
+
  admin = user with id -1-
-```
+
 ## Used By
 
 This project is used by the following companies:
